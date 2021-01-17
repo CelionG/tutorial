@@ -5,3 +5,4 @@ def func1():
     print("Hallo Welt!!")
 
 func1()
+print ("Happy to work with Git")
