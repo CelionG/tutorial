@@ -1,1 +1,1 @@
-print("Spam")
+print("Spam 1")
